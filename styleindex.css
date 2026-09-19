@@ -1,0 +1,48 @@
+body {
+    background-color: #663399;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    background-color: whitesmoke;
+    color: darkblue;
+    font-size: 30px;
+    border: 3px solid black;
+
+}
+
+.description {
+    color: orchid;
+    font-size: 20px;
+}
+#title {
+    padding:5px;
+    border: 3px solid black;
+    margin: 30px;
+    background-color: whitesmoke;
+    color: darkcyan;
+    font-size: 25px;
+    box-sizing: border-box;
+
+}
+.tracks{
+    display:inline-block;
+    background-color: wheat;
+    width:200px;
+    height:50px;
+}
+
+table{
+    border:5px dotted black;
+    background-color: whitesmoke;
+}
+
+th,
+td{
+    font-size: 20px;
+    color:aqua;
+
+    
+}
